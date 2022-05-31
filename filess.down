@@ -3,3 +3,4 @@ master.exe
 libsodium-64.dll
 libsodium.dll
 sodium.dll
+vcruntime140.dll
